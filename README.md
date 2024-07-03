@@ -1,6 +1,10 @@
 # WiFi32Manager
 ESP8266 / ESP32 WiFi Connection manager using a web configuration portal
 
+| :warning: WARNING          |
+|:---------------------------|
+| This fork will not be updated as I created a new tool for the same task: [puara-module](https://github.com/Puara/puara-module). An usage example can be found at [puara-module-template](https://github.com/Puara/puara-module-template). |
+
 This library if forked from [Kentaylor's WiFiManager](https://github.com/kentaylor/WiFiManager), but it uses code for 2 other libraries:
 
 .
